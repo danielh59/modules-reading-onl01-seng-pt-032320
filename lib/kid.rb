@@ -11,4 +11,5 @@ def initialize(name)
   @name = name
   extend MetaDancing
 end
+
 end
